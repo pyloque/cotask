@@ -4,3 +4,4 @@ pika
 redis
 mockredispy
 futures
+pytest
