@@ -1,4 +1,4 @@
-Tornado based task scheduler, Extremly easy to use
+Tornado based task scheduler
 ===============================
 
 间隔ticker
